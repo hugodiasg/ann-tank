@@ -6,14 +6,14 @@ Artificial Neural Network to identify how Quanser's coupled tank works modeled i
 
 ## Train the ANN
 - Run `random_signals.m`
-- Run `tank_nna.slx`
+- Run `tank_ann.slx`
 - Run `pre_rna.m`
 - Open `nnstart` -> `Fitting App` -> set `input` as  `Inputs` and `output` as `Targets` -> Train
 - Save the Simulink Diagram
 
 ## Simulate the ANN
 - Run `random_signals.m`
-- Insert the trained ANN in `tank_nna.slx`
+- Insert the trained ANN in `tank_ann.slx`
 - Simulate
 
 # ANN 
