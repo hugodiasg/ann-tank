@@ -26,10 +26,14 @@ Artificial Neural Network to identify how Quanser's coupled tank works modeled i
 
 # Simulations
 
-![image](https://github.com/hugodiasg/ann-tank/assets/80465879/7c2418f1-1703-4242-a604-d9ab2b0607a0)
-
 ![image](https://github.com/hugodiasg/ann-tank/assets/80465879/d5fcd5d2-13f6-42a6-812d-a4652c5dd649)
 
-![image](https://github.com/hugodiasg/ann-tank/assets/80465879/f440edf3-1309-4961-aca3-ca75de7b1248)
+![image](https://github.com/hugodiasg/ann-tank/assets/80465879/83c79e1c-a811-432c-bd36-eefe6ffa3c06)
 
-![image](https://github.com/hugodiasg/ann-tank/assets/80465879/1fcb81c5-da4d-4ce0-b02a-e2e1a4baebb8)
+![image](https://github.com/hugodiasg/ann-tank/assets/80465879/9037aad9-bd98-4c4a-87df-9334e22ec400)
+
+![image](https://github.com/hugodiasg/ann-tank/assets/80465879/405385ff-601c-429c-b0ca-0cb36eaca00d)
+
+![image](https://github.com/hugodiasg/ann-tank/assets/80465879/f1fa73a5-7403-4580-b1e6-e99c368975a7)
+
+
